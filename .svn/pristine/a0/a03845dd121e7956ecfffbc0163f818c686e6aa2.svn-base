@@ -1,0 +1,9 @@
+#开发环境
+host=g1mgos01.im.dev.gomeplus.com:30000
+#port=27018
+#mongodb host配置多个配置用";"分割     测试环境
+#host=10.69.211.181:30000;10.69.211.182:30000;10.69.211.183:30000
+#host=10.125.3.11:30000;10.125.3.21:30000;10.125.3.31:30000
+#port=30000
+connectionsPerHost=10
+connectionMultiplier=5
